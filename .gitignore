@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Test txt files
+*.txt
+
+# OSX Junk
+.DS_Store
+
 # C extensions
 *.so
 
